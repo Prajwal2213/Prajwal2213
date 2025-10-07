@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋, I'm Prajwall M </h1>
 <h3 align="center">A Passionate Computer Science Engineer From India. </h3>
 
-<p align="left">
-  
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width="1920" />
-</p>
+<hr>
 
 ### 🙋‍♂️ About Me
 - 👨‍🎓 Studying Engineering At **Dayananda Sagar University**.
@@ -19,9 +16,7 @@
 
 - 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/prajwal-m-687bab213/" style="text-decoration: none;">LINKEDIN</a>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+<hr>
 
 
 # 💻 Tech Stack: 

@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Prajwall M </h1>
-<h3 align="center">A Passionate Computer Science Engineer From India. </h3>
+<h3 align="center">A Passionate Computer Science Engineer From India.Open-source Contributer</h3>
 
 <hr>
 

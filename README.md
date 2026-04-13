@@ -2,19 +2,19 @@
   <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm Prajwal M </h1>
+<h1 align="center">Hi , I'm Prajwal M </h1>
 <h3 align="center">A Passionate Computer Science Engineer From India.Open-source Contributer</h3>
 
 <hr>
 
-### 🙋‍♂️ About Me
-- 👨‍🎓 Studying Engineering At **Dayananda Sagar University**.
+###  About Me
+- Studying Engineering At **Dayananda Sagar University**.
 
-- 🔭 I’m looking To Contribute to **Open Source**
+-  I’m looking To Contribute to **Open Source**
 
-- 🌱 I’m Currently Exploring **AI&ML and Web Development**
+-  I’m Currently Exploring **AI&ML and Web Development**
 
-- 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/prajwal-m-687bab213/" style="text-decoration: none;">LINKEDIN</a>
+-  Know Me More <a href="https://www.linkedin.com/in/prajwal-m-687bab213/" style="text-decoration: none;">LINKEDIN</a>
 
 <hr>
 

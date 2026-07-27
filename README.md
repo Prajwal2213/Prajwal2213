@@ -1,7 +1,7 @@
 <div align="center">
   <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
   <h1>Hi, I'm Prajwal M</h1>
-  <h3>A Passionate Computer Science Engineer From India | Open-source Contributor</h3>
+  <h3>A Passionate Computer Science Engineer From India </h3>
 </div>
 
 <hr>
